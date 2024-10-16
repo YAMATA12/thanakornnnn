@@ -1,0 +1,280 @@
+body{
+    background-color: #ffecec ;
+    
+}
+/** "หัวข้อ" **/
+.pp{
+   text-align: center;
+    font-size: 60px;
+    margin: 1px;
+    text-shadow: 2px 2px 5px rgb(120, 19, 19);
+}
+.ppp{
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0px;
+   text-shadow: 2px 2px 5px rgb(120, 19, 19);
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#sss{
+    display: flex;
+    margin: 0px;
+    background-color: rgb(54, 6, 6);
+    padding-left: 8px;
+    padding-right:8px;
+text-shadow: 0px 5px 5px rgb(85, 29, 29);
+    box-shadow: 0px 4px 5px rgb(120, 19, 19);
+  
+}
+#ssss{
+    text-align: center;
+    background-color: rgb(120, 19, 19);
+    color: aliceblue;
+    box-shadow: 0 4px 8px #610000;
+            }
+         
+
+p{ 
+
+padding: 10px 55px;
+
+}
+a{
+    text-transform: uppercase;
+        color: aliceblue;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    
+     
+}
+p:hover{
+    background-color: aliceblue;
+
+}
+a:hover{
+    color: rgb(96, 25, 25);
+}
+
+  #cc img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding-top: 12px;
+    box-shadow: 0 4px 8px #610000;
+  }
+
+  #pj{
+    text-align: center;
+   margin: 3px;
+
+
+ }
+ 
+ .imgcd{
+    width: 50%;
+  height: 50%;
+  object-fit: cover;
+  border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(120, 19, 19);
+    box-shadow:2px 2px 7px #610000;
+
+    }
+ 
+
+
+
+
+.imgpf{
+text-align: center;
+border-radius: 20px 20px 20px 20px;
+background-color: rgb(120, 19, 19);
+    width: 30%;
+  height: 35%;
+  object-fit: cover;
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 20px;
+  box-shadow:2px 2px 7px #610000;
+padding-left: 20px;
+ }
+ 
+ #pf{
+    display: flex;
+   
+ }
+ 
+ 
+
+ #pps{
+    padding: 0px 20px 0px 20px;
+margin: 0px;
+text-align: center;
+ }
+ 
+
+ #ppss{
+    background-color: bisque;
+    width:200px;
+    height: 70px;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:2px 2px 7px #610000;
+ }
+ #ppsss{
+    background-color: bisque;
+    width:455px;
+    height: 100px;
+   
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:2px 2px 7px #610000;
+    margin:20px 0px;
+ }
+
+ .ppqq{
+  font-size: 25px;
+  text-align: center;
+ }
+
+ .pq{
+font-size: 20px;
+background-color: rgb(54, 6, 6);
+width:150px;
+height: 35px;
+border-radius: 15px 15px 15px 15px;
+text-align: center;
+padding: 0px 150px;
+color: #ffecec;
+box-shadow:2px 2px 7px #610000;
+
+ }
+
+ .ppq{
+    font-size: 20px;
+    background-color: rgb(54, 6, 6);
+    width:460px;
+    height: 35px;
+    border-radius: 15px 15px 15px 15px;
+    
+    color: #ffecec;
+    box-shadow:2px 2px 7px #610000;
+    
+     }
+
+
+ .pqq{
+font-size: 20px;
+background-color: antiquewhite;
+border-radius: 15px 15px 15px 15px;
+width:250px;
+border-radius: 15px 15px 15px 15px;
+padding: 50px 100px;
+text-align: start;
+box-shadow:2px 2px 7px #610000;
+ }
+ .pqqq{
+    font-size: 20px;
+    background-color: antiquewhite;
+    border-radius: 15px 15px 15px 15px;
+    width:250px;
+    padding: 50px 100px;
+    text-align: start;
+    box-shadow:2px 2px 7px #610000;
+    
+
+     }
+     .pqqqq{
+        font-size: 20px;
+        background-color: antiquewhite;
+        border-radius: 15px 15px 15px 15px;
+        width:440px;
+        text-align: start;
+        box-shadow:2px 2px 7px #610000;
+    padding: 10px 20px;
+   
+         }
+         .pqqqqq{
+            font-size: 20px;
+            background-color: antiquewhite;
+            border-radius: 15px 15px 15px 15px;
+            width:410px;
+            text-align: start;
+            box-shadow:2px 2px 7px #610000;
+        padding: 10px 20px;
+       
+             }
+        
+    
+
+
+/** ชื่อสถาบัน **/
+ #aaa{
+  background-color: rgb(54, 6, 6);
+ margin: 0px;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ color: aliceblue;
+ box-shadow: 0 4px 8px #610000;
+ text-shadow: 2px 2px 6px;
+
+ }
+
+ /** คำนำ **/
+ #sop,#soop,#sooop{
+  text-indent: 50px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+ background-color: #610000;
+ color: azure;
+ text-align: center;
+box-shadow: 2px 2px 8px rgb(54, 6, 6);
+border-radius: 20px 20px 20px 20px;
+ 
+ }
+ 
+ #ff{
+   text-align: center;
+  margin-top: 15px;
+ }
+ 
+ .dds{
+   box-shadow:2px 2px 7px #610000;
+ }
+/** animation **/
+@keyframes sss {
+    from {
+        transform: translateY(-100%); 
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+#sss ,.pp,.ppp ,#sop ,#sopp,#cc ,#asd ,#ds,.cd,#dd,#pf,#ppss{
+    animation: sss 1s ease-out;
+} 
+#soop,#ddd{
+    animation: sss 1.5s ease-out;
+}
+#sooop,#dddd{
+    animation: sss 2s ease-out;
+}
+#dd ,#ddd,#dddd{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#hh{
+animation: sss 1.5s ease-out;
+text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#hhh{
+animation: sss 2s ease-out;
+text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
